@@ -11,6 +11,7 @@ To understand how to use excel to analyze and filter data and to come to conclus
 
 ## Analysis and Challenges
 **Two different analysis were required for this challenge**
+
 **1.** Theather outcomes by launch date
 
 **2.** Outcome Results based on Goal amount 
