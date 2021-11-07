@@ -12,6 +12,7 @@ To understand how to use excel to analyze and filter data and to come to conclus
 ## Analysis and Challenges
 **Two different analysis were required for this challenge**
 **1.** Theather outcomes by launch date
+
 **2.** Outcome Results based on Goal amount 
 Both analysis had different information we could extract to understand why certain outcomes are not as successful as others which will be explained below 
 
@@ -35,12 +36,14 @@ Another issue I ran in was how to make the data on the pivot table the most read
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 **1.** the most succcessful campaigns are started during the summer months
+
 **2.** the break even point between successful and failed campaigns seems to be at the month of December which would indicate that this is possibly one of the worst times to start a campaign
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/92459399/140660424-63a62d79-c6d7-4cc7-8aa2-9f73d3e1583d.PNG)
 
 
 - What can you conclude about the Outcomes based on Goals?
 **1.** We can conclude that the lower the inital goal amount the more likely a campaign is to succeed
+
 **2.** In comparison we can also conclude that the higher the goal amount, the higher the percentage of failure of the outcome.
 
 - What are some limitations of this dataset?
